@@ -51,3 +51,7 @@ START -> Read monthly usage -> Calculate slab charges -> Add fees/subtract rebat
 ```powershell
 python main.py
 ```
+
+## Live Streamlit deployment
+
+https://progressive-electricity-billing-eilqpz6ydcnusq8wkvagsp.streamlit.app/
